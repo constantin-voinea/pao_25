@@ -9,7 +9,8 @@ Programare Avansata pe Obiecte - grupa 231
     Modalitate evaluare laborator (varianta discutata):
     - prezenta: 20% (2 puncte din 10). 10-12 prezente pentru a obtine 2 pct., 7-9 prezente pentru 1 pct.   
     - teme suplimentare: 30%  (3 puncte din 10)
-    - proiect: 50 % (5 puncte din 10)  
+    - proiect: 50 % (5 puncte din 10)     
+
 Nota finala din laborator trebuie sa fie de la 1 la 10, minim 5 pentru promovare si intrare in examenul scris.     
 Punctajul obtinut in activitatea de laborator nu se rotunjeste. Se va face o singura rotunjire la final, dupa ce se aduna cu nota din examen.    
 
