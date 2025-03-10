@@ -3,13 +3,15 @@ Programare Avansata pe Obiecte - grupa 231
 
 
 ## Modalitate de evaluare:  
-- curs, pondere 50%:  
-  - verificare (examen scris) in ultima saptamana din semestru  
-- laborator, pondere 50%:  
-  - prezenta + teme suplimentare: 25%  
-  - proiect: 25 %   
-Nota finala din laborator trebuie sa fie de la 1 la 10, minim 5 pentru promovare si intrare in examenul scris.   
-Punctajul obtinut in activitatea de laborator nu se rotunjeste. Se va face o singura rotunjire la final, dupa ce se aduna cu nota din examen.  
+- curs, pondere 50% din nota finala materie PAO;  
+    Modalitate evaluare: verificare (examen scris) in ultima saptamana din semestru   
+- laborator, pondere 50% din nota finala materie PAO;     
+    Modalitate evaluare laborator (varianta discutata):
+    - prezenta: 20% (2 puncte din 10). 10-12 prezente pentru a obtine 2 pct., 7-9 prezente pentru 1 pct.   
+    - teme suplimentare: 30%  (3 puncte din 10)
+    - proiect: 50 % (5 puncte din 10)  
+Nota finala din laborator trebuie sa fie de la 1 la 10, minim 5 pentru promovare si intrare in examenul scris.     
+Punctajul obtinut in activitatea de laborator nu se rotunjeste. Se va face o singura rotunjire la final, dupa ce se aduna cu nota din examen.    
 
 
 ## Cerinte proiect:  
@@ -27,7 +29,7 @@ Conditia de punctare a proiectelor:
 1) Definirea sistemului  
    Sa se creeze o lista pe baza temei alese cu cel putin 10 actiuni/interogari care se pot face în cadrul sistemului si o lista cu cel putin 8 tipuri de obiecte.  
 2) Implementare  
-   Sa se implementeze în limbajul Java o aplicatie pe baza celor definite la primul punct.  
+   Sa se implementeze în limbajul Java (versiunea 21) o aplicatie pe baza celor definite la primul punct.  
    Aplicatia va contine:  
    • clase simple cu atribute private / protected si metode de acces;  
    • cel putin 2 colectii diferite capabile sa gestioneze obiectele definite anterior (eg: List, Set, Map, etc.) dintre care cel putin una sa fie sortata.  
