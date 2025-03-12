@@ -2,8 +2,7 @@
 a) cititi de la tastatura un numar intreg n cuprins intre [0, 5].
 Nota: interactiunea cu userul va continua atat timp cat acesta nu a furnizat o valoare valida.
 b) creati un tablou unidimensional de lungime n, ale carui elemente intregi le cititi de la tastatura.
-c) implementati o metoda care realizeaza inversare ordinii initiale a elementelor unui tablou unidimensional.
-d) afisati in ordine inversa elementele tabloului creat initial.
+c) implementati o metoda care realizeaza inversarea ordinii initiale a elementelor tabloului si afisarea lui in consola.
 exemplu: Input: [2, 4, 1, 5, 3]
          Output: [3, 5, 1, 4, 2]
 
