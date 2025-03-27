@@ -16,13 +16,13 @@ public class ZooTest {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Introduceti numarul maxim de animale ce pot fi gazduite la Zoo Bucuresti: ");
-        int capacitateMaxima = scanner.nextInt();
-        scanner.close();
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.println("Introduceti numarul maxim de animale ce pot fi gazduite la Zoo Bucuresti: ");
+//        int capacitateMaxima = scanner.nextInt();
+//        scanner.close();
 
-        // alternativ, putem pasa aplicatiei ca argument aceasta valoare:
-        // int capacitateMaxima = Integer.parseInt(args[0]);
+//         alternativ, putem pasa aplicatiei ca argument aceasta valoare:
+         int capacitateMaxima = Integer.parseInt(args[0]);
 
         Zoo zooBucuresti = new Zoo(capacitateMaxima);
         adaugaAnimaleLaZoo(zooBucuresti);
