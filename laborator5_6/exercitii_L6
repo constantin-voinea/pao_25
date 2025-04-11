@@ -1,0 +1,15 @@
+1. Implementaţi si testati interfaţa Task în cele 3 moduri de mai jos:
+
+a. Un task care să afișeze un mesaj la output. Mesajul este specificat în constructor. (OutTask.java)
+b. Un task care generează un număr aleator și afișează un mesaj cu numărul generat la output. Generarea se face în constructor. (RandomOutTask.java)
+c. Un task care incrementează un contor global și afișează valoarea contorului după fiecare incrementare (CounterOutTask.java).
+
+
+2. Interfaţa Container specifică interfaţa comună pentru colecţii de obiecte Task, în care se pot adăuga și din care se pot elimina elemente.
+Creaţi si testati două tipuri de containere care implementează această interfata:
+
+a. Stack - care implementează o strategie de tip LIFO
+b. Queue - care implementează o strategie de tip FIFO
+
+Evitaţi codul similar în locuri diferite si utilizati array-uri (nu API-ul de colectii).
+
