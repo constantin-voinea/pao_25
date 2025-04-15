@@ -1,0 +1,24 @@
+1. Definiţi o clasă care să implementeze operaţii pe numere double. Operaţiile vor arunca excepţii.
+
+a. Clasa va trebui să implementeze interfața Calculator, ce conţine trei metode:
+- add: primeşte două numere şi întoarce un double;
+- divide: primeşte două numere şi întoarce un double;
+- average: primeşte un vector ce conţine valori double şi întoarce media acestora ca numar de tip double. Pentru calculul mediei sunt folosite metodele add şi divide.
+Toate aceste valori se citesc dintr-un fisier.
+
+Metodele pot arunca următoarele excepții (definite în interfața Calculator):
+- NullParameterException: este aruncată dacă vreunul din parametrii primiți este null;
+- OverflowException: este aruncată dacă suma a două numere este egală cu Double.POSITIVE_INFINITY;
+- UnderflowException: este aruncată dacă suma a două numere este egală cu Double.NEGATIVE_INFINITY;
+
+De asemenea, definiti propriile clase de exceptii (care sa le extinda pe unele existente in Java) pentru alte situatii ce pot fi intalnite in implementarea proprie,
+inclusiv in crearea si citirea din fisier a valorilor procesate de calculator.
+De exemplu, creati clasa MyArithmeticException si folositi-o in metoda divide() pentru a acoperi situatia impartirii la 0.
+
+b. Creati o clasa client cu metoda main in care sa evidentiati prin teste toate cazurile posibile care generează excepţii.
+
+
+2. Scrieti un program Java care:
+    a. sa gaseasca cel mai lung cuvant dintr-un fisier text;
+    b. sa adauge continutul clasei curente Java in fisierul text utilizat la exercitiul anterior;
+    c. sa salveze intr-un array, linie cu linie, continutul fisierului folosit la primul exercitiu.
